@@ -1,6 +1,10 @@
 body {
 background-color: bisque
-color:aliceblue 
+color:black 
 font-family: "Bebas Neue", sans-serif;
 display: flex;
+justify-content: center;
+
+
+
 }
