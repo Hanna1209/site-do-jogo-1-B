@@ -1,3 +1,6 @@
 body {
-background-color: bisque;
+background-color: bisque
+color:aliceblue 
+font-family: "Bebas Neue", sans-serif;
+display: flex;
 }
