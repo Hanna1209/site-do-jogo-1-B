@@ -4,7 +4,21 @@ color:black;
 font-family: "Bebas Neue", sans-serif;
 display: flex;
 justify-content: center;
+align-items:cemter;
+height: 700px;
+margin: 0;
+}
+
+button{
+
+    background-color:antiquewhite;
+    color:black;
+    font-family: "Bebas Neue", sans-serif;
+
+
 
 
 
 }
+
+
