@@ -1,6 +1,6 @@
 body {
 background-color: rgb(245, 225, 244);
-color:rgb(226, 17, 156); 
+color:rgb(46, 2, 31); 
 font-family: "Bebas Neue", sans-serif;
 display: flex;
 justify-content: center;
@@ -11,7 +11,7 @@ margin: 0;
 
 button{
 
-    background-color:antiquewhite;
+    background-color:rgb(253, 231, 241);
     color:black;
     font-family: "Bebas Neue", sans-serif;
 
