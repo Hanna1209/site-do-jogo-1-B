@@ -1,6 +1,6 @@
 body {
-background-color: bisque;
-color:black; 
+background-color: rgb(243, 204, 241);
+color:rgb(226, 17, 156); 
 font-family: "Bebas Neue", sans-serif;
 display: flex;
 justify-content: center;
@@ -20,5 +20,23 @@ button{
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
